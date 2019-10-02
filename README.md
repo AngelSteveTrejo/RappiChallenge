@@ -26,16 +26,16 @@ App que permite visualizar los lugar para comer más acercanos a tu ubicación (
 
 ![Select Category](SelectCategory.gif)
 
-**Most popular Section*
+**Most popular Section**
 
 ![Most popular](selectMostPopular.gif)
 
-**List Of Restaurants*
+**List Of Restaurants**
 
 ![listOfRestaurants](listOfRestaurants.gif)
 
 
-**Search Restaurants*
+**Search Restaurants**
 
 ![Search Restaurants](SearchRestaurants.gif)
 
