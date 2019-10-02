@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  RappiTechnicalChallenge
+
+  Created by Angel Trejo Flores on 9/25/19.
+  
+*/
+// MARK: - Detail
+
+"ratingDetailTitle" = "Rating: ";
+"localityTitle" = "Locality: ";
+
+// MARK: - Home
+"allPlacesTitle" = "All places near me.";
+"topCategoriesTitle" = "Top categories";
+"mostPopularTitle" = "Most popular";
+"restaurantsTitle" = "Restaurants";
+
+// MARK: Search
+"placeHolderTitle" = "Search Restaurant name";
+"locationTitle" = "Location: ";
+"searchRestaurantsTitle" = "Search restaurants";
+"recentlyViewedTitle" = "Recently Viewed";
+
+// MARK: Restaurants List
+"restaurantsTitle" = "Restaurants";
+
+// MARK: Detail
+"buttonDirectionsTitle" = "How to arrive there?";
+"locationLabelTitle" = "Location: ";
+"addresslabelTitle" = "Address: ";
