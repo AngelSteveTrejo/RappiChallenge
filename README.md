@@ -2,7 +2,7 @@
 App que permite visualizar los lugar para comer más acercanos a tu ubicación (USA)
 
 *Notes:
-- El app no ocupa storyboards ni xibs, todas las vistas están echas a código.
+- El app no ocupa storyboards ni xibs, todas las vistas están echas a código con NSLayoutAnchor.
 - Ocupa assets como Colors.
 - Guarda los strings en Localizable.
 - El código más importante u/o complejo esta documentado.
