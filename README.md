@@ -3,7 +3,7 @@ App que permite visualizar los lugar para comer más acercanos a tu ubicación (
 
 # Funcionalidad
 
-*Splash View or Launch *
+*Splash View or Launch*
 
 ![SplashView](splashview.gif)
 
